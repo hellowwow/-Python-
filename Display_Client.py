@@ -5,9 +5,14 @@ import RawSocket_send
 import RawSocket_recv
 import socket
 
+添加修改1
+
 win = tkinter.Tk()
 win.title("WELCOME")
 win.geometry("900x550")
+
+添加修改2
+
 
 ft = tkFont.Font(family='Fiddly', size=18, weight=tkFont.BOLD)
 
