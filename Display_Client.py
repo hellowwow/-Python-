@@ -18,6 +18,7 @@ frm1 = tkinter.Frame(win)
 frm1.place(x=119, y=80)
 radio_var = tkinter.IntVar()
 
+修改2
 
 def Click_ipv4():
     for widget in frm1.winfo_children():
