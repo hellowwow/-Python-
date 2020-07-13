@@ -31,6 +31,7 @@ def Click_ipv4():
     radio2 = tkinter.Radiobutton(frm1, text="Fragment Offset", value=13, variable=radio_var, font=ft, fg='blue')
     radio2.pack(anchor=tkinter.W)
 
+#修改3
 
 def Click_ipv6():
     for widget in frm1.winfo_children():
