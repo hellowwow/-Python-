@@ -9,7 +9,7 @@ win = tkinter.Tk()
 win.title("WELCOME")
 win.geometry("900x550")
 
-添加修改2
+#添加修改2
 123
 
 ft = tkFont.Font(family='Fiddly', size=18, weight=tkFont.BOLD)
