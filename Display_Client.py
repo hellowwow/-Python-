@@ -5,8 +5,6 @@ import RawSocket_send
 import RawSocket_recv
 import socket
 
-添加修改1
-
 win = tkinter.Tk()
 win.title("WELCOME")
 win.geometry("900x550")
